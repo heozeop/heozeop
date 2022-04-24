@@ -7,7 +7,7 @@ I'm **SeungChan Lee**, who wanna be **Cripy** 🍪!
 
 ## Current Toppings
 
-### Choco Chips
+### Choco Chips of
 - Confident
 
   <img src="https://img.shields.io/badge/reactjs-black?&style=for-the-badge&logo=react&logoColor=white"/>
