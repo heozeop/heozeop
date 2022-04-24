@@ -1,10 +1,6 @@
 # Hello, My Friend!
 I'm **SeungChan Lee**, who wanna be **Cripy** 🍪!
 
-## My dough made with ...
-- Ability to initiate something, but not at maintaining or finishing **yet**
-- **Hard worker**, who make him self better as possible
-
 ## Current Toppings
 
 ### Choco Chips, that
@@ -24,6 +20,8 @@ I'm **SeungChan Lee**, who wanna be **Cripy** 🍪!
   
 ## Crumbs
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=dltmdcks702)](https://solved.ac/dltmdcks702)
+
+![Crispy's GitHub stats](https://github-readme-stats.vercel.app/api?username=heozeop&show_icons=true&theme=radical)
 
 ## You can find more about me on
 [![Facebook](https://img.shields.io/badge/-Facebook-1877f2?style=round-square&logo=facebook&logoColor=white&link=https://www.facebook.com/jhnam88)](https://www.facebook.com/SeunChanLeeCrispy/)
