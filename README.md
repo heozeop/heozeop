@@ -2,9 +2,8 @@
 I'm **SeungChan Lee**, who wanna be **Cripy** 🍪!
 
 ## My dough made with ...
-- Lazyness, fat, lifemanship and **a little Conscience**
 - Ability to initiate something, but not at maintaining or finishing **yet**
-- **Hard worker**, who want to rest well someday
+- **Hard worker**, who make him self better as possible
 
 ## Current Toppings
 
