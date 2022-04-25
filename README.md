@@ -23,6 +23,6 @@ I'm **SeungChan Lee**, who wanna be **Cripy** 🍪!
 
 ![Crispy's GitHub stats](https://github-readme-stats.vercel.app/api?username=heozeop&show_icons=true&theme=radical)
 
-## You can find more about me on
+## You can find me more on
 [![Facebook](https://img.shields.io/badge/-Facebook-1877f2?style=round-square&logo=facebook&logoColor=white&link=https://www.facebook.com/jhnam88)](https://www.facebook.com/SeunChanLeeCrispy/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=round-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jhnam88)](https://www.linkedin.com/in/1998-crispy/)
