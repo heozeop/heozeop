@@ -19,8 +19,6 @@ I'm **SeungChan Lee**, who wanna be **Cripy** 🍪!
   <img src="https://img.shields.io/badge/django-052513?&style=for-the-badge&logo=django&logoColor=white"/>
   
 ## Crumbs
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=dltmdcks702)](https://solved.ac/dltmdcks702)
-
 ![Crispy's GitHub stats](https://github-readme-stats.vercel.app/api?username=heozeop&show_icons=true&theme=radical)
 
 ## You can find me more on
