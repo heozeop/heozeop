@@ -24,3 +24,4 @@ I'm **SeungChan Lee**, who wanna be **Cripy** 🍪!
 ## You can find me more on
 [![Facebook](https://img.shields.io/badge/-Facebook-1877f2?style=round-square&logo=facebook&logoColor=white&link=https://www.facebook.com/jhnam88)](https://www.facebook.com/SeunChanLeeCrispy/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=round-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jhnam88)](https://www.linkedin.com/in/1998-crispy/)
+[![resume](https://img.shields.io/badge/-resume%20-blue)](https://docs.google.com/document/d/1M84kNjMjV-NwR0a8Vpjib5LziEmdBFFZF7bFl32q0ag/edit?usp=sharing)
