@@ -1,5 +1,5 @@
-# Hello, My Friend!.
-### I'm SeungChan Lee, who wanna be Cripy 🍪!
+# Hello, My Friend!
+### This is SeungChan Lee, who wanna be Cripy 🍪!
 [![Facebook](https://img.shields.io/badge/-Facebook-1877f2?style=round-square&logo=facebook&logoColor=white&link=https://www.facebook.com/jhnam88)](https://www.facebook.com/SeunChanLeeCrispy/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=round-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jhnam88)](https://www.linkedin.com/in/1998-crispy/)
 [![resume](https://img.shields.io/badge/-resume%20-blue)](https://docs.google.com/document/d/1M84kNjMjV-NwR0a8Vpjib5LziEmdBFFZF7bFl32q0ag/edit?usp=sharing)
@@ -7,9 +7,10 @@
 
 ### ⚒ Previous Work Experience
 - Full-Time
-  - [Nosearch](https://nosearch.com/) / 2021.03 ~ 
+  - [Nosearch](https://nosearch.com/) / 2021.03 ~
+  - [Gomi Coporation](https://www.gomicorp.com/) / 2020.07 ~ 2021.02
 - Intern
-  - [Gomi Coporation](https://www.gomicorp.com/) / 2020.03 ~ 2021.02
+  - [Gomi Coporation](https://www.gomicorp.com/) / 2020.03 ~ 2020.06
 
 ### 🎓 Education
 - B.Eng. in [Computer Science & Engineering](https://cse.cau.ac.kr/main.php), Chung-Ang
