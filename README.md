@@ -25,8 +25,7 @@
 ## 📂 Other Experiences
 ### OpenSource
 - [LLM Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide/pull/244) / 2023.07 ~
-  - (1mo) Translate [Prompt Function](https://www.promptingguide.ai/kr/applications/pf) page
-  - Paticipant master program
+  - Translate [Prompt Function](https://www.promptingguide.ai/kr/applications/pf) page
 - [Chakra-UI](https://chakra-ui.com/) / 2021.07 ~ 2022.03
   - Engage in developing playground with Monaco editor, ESBuild, SandPack
   - Develop [Editable Textarea](https://github.com/chakra-ui/chakra-ui/pull/4443)
