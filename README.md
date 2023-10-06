@@ -43,5 +43,5 @@
 ![Crispy's GitHub stats](https://github-readme-stats.vercel.app/api?username=heozeop&show_icons=true&theme=radical)
 
 ### Certification
-- [SQLD](https://www.dataq.or.kr/www/sub/a_04.do) Korea Data Agency, 2023.10.06
+- [SQLD](https://www.dataq.or.kr/www/sub/a_04.do) Korea Data Agency, 2023.10.06 ~ 2025.10.06
 
