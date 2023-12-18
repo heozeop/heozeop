@@ -7,10 +7,10 @@
 
 ### ⚒ Previous Work Experience
 - Full-Time
-  - [Nosearch](https://nosearch.com/) / 2021.03 ~
-  - [Gomi Coporation](https://www.gomicorp.com/) / 2020.07 ~ 2021.02
-- Intern
-  - [Gomi Coporation](https://www.gomicorp.com/) / 2020.03 ~ 2020.06
+  - [Nosearch](https://nosearch.com/) / 2021.03 ~ current (about 2yr 10mo)
+  - [Gomi Coporation](https://www.gomicorp.com/) / 2020.07 ~ 2021.02 (8mo)
+- Intern 
+  - [Gomi Coporation](https://www.gomicorp.com/) / 2020.03 ~ 2020.06 (4mo)
 
 ### 🎓 Education
 - B.Eng. in [Computer Science & Engineering](https://cse.cau.ac.kr/main.php), Chung-Ang
