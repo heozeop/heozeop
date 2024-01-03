@@ -31,12 +31,12 @@
   - Develop [Editable Textarea](https://github.com/chakra-ui/chakra-ui/pull/4443)
 
 ### Side project
-- 다모 / 2023.07 ~
+- 다모 / 2023.07 ~ 2023.12
   - Study NextJS 13
   - make [da-mo web app](https://app.da-mo.club/)
-- 문득 / 2023.03 ~
+- 문득 / 2023.03 ~ 2023.07
   - Develop server side with NestJS
-- 니가 개냥 / 2020.08 ~ 2020.01
+- 니가 개냥 / 2020.08 ~ 2021.01
   - Develop match flow pages with Flutter
   - Develop kakao and google logins with official libraries
 
