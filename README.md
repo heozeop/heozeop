@@ -44,9 +44,9 @@
 ![Crispy's GitHub stats](https://github-readme-stats.vercel.app/api?username=heozeop&show_icons=true&theme=radical)
 
 ### Certification
-#### 개발
+#### Dev
 - [SQLD](https://www.dataq.or.kr/www/sub/a_04.do) Korea Data Agency, 2023.10.06 ~ 2025.10.06
-#### 언어
+#### Lang
 - [OPIc](https://www.opic.or.kr/opics/jsp/senior/index.jsp) IH(Intermediate High), 2023.11.05 ~ 2025.11.04
 - [TOEIC](https://www.toeic.co.kr/) 785, 2024.02.25 ~ 2026.02.25
 
