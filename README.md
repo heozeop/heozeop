@@ -13,7 +13,7 @@
   - [Gomi Coporation](https://www.gomicorp.com/) / 2020.03 ~ 2020.06 (4mo)
 
 ### 🎓 Education
-- B.Eng. in [Computer Science & Engineering](https://cse.cau.ac.kr/main.php), Chung-Ang
+- B.Eng. in [Computer Science & Engineering](https://cse.cau.ac.kr/main.php), Chung-Ang (2023.02)
   - GPA : 4.16/4.5
  
 ## ⚙ Tech Skill
