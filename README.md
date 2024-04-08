@@ -7,7 +7,7 @@
 
 ### ⚒ Previous Work Experience
 - Full-Time
-  - [Nosearch](https://nosearch.com/) / 2021.03 ~ current (about 3yr)
+  - [Nosearch](https://nosearch.com/) / 2021.03 ~ current (about 3yr 1mo)
   - [Gomi Coporation](https://www.gomicorp.com/) / 2020.07 ~ 2021.02 (8mo)
 - Intern 
   - [Gomi Coporation](https://www.gomicorp.com/) / 2020.03 ~ 2020.06 (4mo)
