@@ -6,10 +6,10 @@
 
 
 ### ⚒ Previous Work Experience
-- Full-Time
-  - [Nosearch](https://nosearch.com/) / 2021.03 ~ current (about 3yr 1mo)
+- Full-Time (about 4yr)
+  - [Nosearch](https://nosearch.com/) / 2021.03 ~ current (about 3yr 4mo)
   - [Gomi Coporation](https://www.gomicorp.com/) / 2020.07 ~ 2021.02 (8mo)
-- Intern 
+- Intern (about 4mo)
   - [Gomi Coporation](https://www.gomicorp.com/) / 2020.03 ~ 2020.06 (4mo)
 
 ### 🎓 Education
@@ -31,6 +31,8 @@
   - Develop [Editable Textarea](https://github.com/chakra-ui/chakra-ui/pull/4443)
 
 ### Side project
+- wepl / 2024.04 ~
+    - develop login with backend
 - 다모 / 2023.07 ~ 2023.12
   - Study NextJS 13
   - make [da-mo web app](https://app.da-mo.club/)
