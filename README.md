@@ -32,7 +32,7 @@
 
 ### Side project
 - wepl / 2024.04 ~
-    - develop login with backend
+    - develop login as backend
 - 다모 / 2023.07 ~ 2023.12
   - Study NextJS 13
   - make [da-mo web app](https://app.da-mo.club/)
