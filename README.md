@@ -43,7 +43,7 @@
   - Develop kakao and google logins with official libraries
 
 ## Crumbs
-![Crispy's GitHub stats](https://github-readme-stats.vercel.app/api?username=heozeop&show_icons=true&theme=radical)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/heozeop?cardType=level&theme=city-lights&preferLogin=true&Background=030101)](https://git.io/awesome-stats-card)
 
 ### Certification
 #### Dev
