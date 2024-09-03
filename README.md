@@ -7,8 +7,8 @@
 
 ### ⚒ Previous Work Experience
 - Full-Time (about 4yr)
-  - [Nosearch](https://nosearch.com/) / 2021.03 ~ 2024.09 (about 3yr 6mo)
-  - [Gomi Coporation](https://www.gomicorp.com/) / 2020.07 ~ 2021.02 (about 8mo)
+  - [Nosearch](https://nosearch.com/) / 2021.03.22 ~ 2024.09.13 (about 3yr 6mo)
+  - [Gomi Coporation](https://www.gomicorp.com/) / 2020.07.01 ~ 2021.02.23 (about 8mo)
 - Intern (about 4mo)
   - [Gomi Coporation](https://www.gomicorp.com/) / 2020.03 ~ 2020.06 (about 4mo)
 
