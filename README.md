@@ -6,9 +6,9 @@
 - [JaeSeoKim/kakao.maps.d.ts](https://github.com/JaeSeoKim/kakao.maps.d.ts) / 2023.09
   - Add Map on Polyline option 
 - [Chakra-UI](https://chakra-ui.com/) / 2021.07 ~ 2022.03
-  - Engage in developing playground with Monaco editor, ESBuild, SandPack as Collaborator.
-  - Develop [Editable Textarea](https://github.com/chakra-ui/chakra-ui/pull/4443)
-- [moxy__next-router-scroll](https://github.com/moxystudio/next-router-scroll)
+  - Develop [Editable Textarea](https://github.com/chakra-ui/chakra-ui/pull/4443) / 2021.07 
+  - Engage in developing playground with Monaco editor, ESBuild, SandPack as Collaborator / 2021.12 ~ 2022.03
+- [moxy__next-router-scroll](https://github.com/moxystudio/next-router-scroll) / 2021.06 ~ 2021.07
   - Ask for types and approved to write types [issue](https://github.com/moxystudio/next-router-scroll/issues/8) / 2021.06
   - Add types for javascript project [PR](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/54597) / 2021.07
   - Review for type change [PR](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/67624 / 2023.04
