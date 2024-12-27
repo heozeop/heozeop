@@ -6,15 +6,8 @@
   - Engage in developing playground with Monaco editor, ESBuild, SandPack as Collaborator.
   - Develop [Editable Textarea](https://github.com/chakra-ui/chakra-ui/pull/4443)
 
-### Side project
-- wepl / 2024.04 ~
-  - Develop backend of wedding scheduling service with Spring.
-  - [wepl](https://wepl.kr/)
-- 다모 / 2023.07 ~ 2023.12
-  - Study NextJS 13
-  - Make [da-mo web app](https://app.da-mo.club/)
-- 문득 / 2023.03 ~ 2023.07
-  - Develop server side with NestJS
-- 니가 개냥 / 2020.08 ~ 2021.01
-  - Develop match flow pages with Flutter
-  - Develop kakao and google logins with official libraries
+### blog posts
+- [가장 빠른 unique by를 만들어 보자 / 2024.12](https://heozeop.github.io/post/fastest-uniqueby/) 
+- [노드에서 배치잡 돌리기(feat. child_process, cluster, worker_threads) / 2024.05](https://heozeop.github.io/post/node-batch-job/)
+- [디테일을 챙기는 개발자가 되고 싶어 하는 고찰 / 2023.10](https://heozeop.github.io/post/detailed-developer/)
+- [오픈소스에 PR 해본 썰 / 2021.08](https://heozeop.github.io/post/learn-and-feel-from-simple-opensource-contribution/)
